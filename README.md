@@ -7,8 +7,8 @@ A sat solver in c++17
 
 ## plan
 
-- project initial setting
-- interface
+- [x] project initial setting
+- [x] program interface
 - basic type
 - parser
   - test case
